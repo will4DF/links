@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Linksans Linksansvf", sans-serif;;
   padding: 0;
   background: linear-gradient( 160deg, #10131a, #1f2330 40%, #0e1015 90%);
   align-items: center;
